@@ -1,0 +1,104 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.env
+
+# Credentials and private configuration
+secrets.*
+credentials.*
+service-account*.json
+firebase-adminsdk*.json
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Personal and user data
+personal/
+private/
+private-data/
+user-data/
+users.json
+sessions.json
+messages.json
+conversations.json
+feedback-private.*
+
+# JavaScript and React
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+build/
+dist/
+.cache/
+.next/
+coverage/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+ENV/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+*.egg-info/
+
+# AI models and training files
+models/
+checkpoints/
+training-output/
+training_outputs/
+adapters/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.gguf
+
+# Databases and vector stores
+*.db
+*.sqlite
+*.sqlite3
+chroma/
+chroma_db/
+vector_store/
+vectorstore/
+
+# Logs and temporary files
+logs/
+*.log
+tmp/
+temp/
+*.tmp
+*.bak
+*.swp
+
+# Large media and generated files
+uploads/
+generated/
+outputs/
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wav
+*.mp3
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.code-workspace
