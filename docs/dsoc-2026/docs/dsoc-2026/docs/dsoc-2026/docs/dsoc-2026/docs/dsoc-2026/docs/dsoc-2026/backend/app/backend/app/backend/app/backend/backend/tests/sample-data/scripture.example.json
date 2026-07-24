@@ -1,0 +1,41 @@
+{
+  "dataset_name": "Digital Krishna Public Scripture Schema Example",
+  "dataset_version": "1.0.0",
+  "purpose": "Demonstrates the public scripture-record structure used by the DSOC prototype.",
+  "important_notice": "This sample is not automatically connected to the guidance API. Scripture content must receive appropriate review before being presented as verified in production.",
+  "records": [
+    {
+      "id": "gita-2-47-demo",
+      "source": "Bhagavad Gita",
+      "chapter": 2,
+      "verse": 47,
+      "language": "sa",
+      "original_text": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन । मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ॥",
+      "translation": {
+        "language": "en",
+        "text": "Focus on the work that is yours to perform rather than becoming controlled by the result.",
+        "translation_type": "original demonstration paraphrase",
+        "authoritative_translation": false
+      },
+      "teaching_summary": "Responsible effort should receive more attention than anxiety about outcomes.",
+      "themes": [
+        "duty",
+        "effort",
+        "detachment",
+        "discipline",
+        "academic pressure"
+      ],
+      "review": {
+        "status": "requires qualified review",
+        "scripture_text_reviewed": false,
+        "translation_reviewed": false,
+        "approved_for_production": false
+      },
+      "usage_rules": {
+        "may_be_used_for_schema_testing": true,
+        "may_be_presented_as_verified_scripture": false,
+        "generated_text_must_remain_separate": true
+      }
+    }
+  ]
+}
