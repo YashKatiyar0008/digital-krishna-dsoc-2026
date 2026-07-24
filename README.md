@@ -101,3 +101,9 @@ AI Guidance Generation
 Response Validation
     ↓
 Structured User Response
+
+Technology
+
+The project uses or explores technologies including:
+Third-party translations, artwork, audio, fonts, and media must not be
+reused unless their licences allow public redistribution.
