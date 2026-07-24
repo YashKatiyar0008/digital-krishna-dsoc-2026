@@ -19,9 +19,9 @@ internal configuration and private project information. Only reviewed
 source code, documentation, sample data, and submission materials will
 be included here.
 
-## The Problem
+## Problem
 
-Students and young adults regularly face:
+Students and young adults regularly experience:
 
 - Academic pressure
 - Career uncertainty
@@ -31,57 +31,53 @@ Students and young adults regularly face:
 - Lack of motivation
 - Confusion about important decisions
 
-At the same time, spiritual teachings that discuss courage,
-self-control, responsibility, clarity, and resilience can be difficult
-to find, understand, and apply to modern situations.
+Spiritual teachings related to courage, responsibility, discipline,
+clarity, and resilience can be difficult to discover, understand, and
+apply to modern situations.
 
-General-purpose AI tools may also provide generic responses or
-incorrect scripture references.
-
-## Our Solution
+## Solution
 
 Digital Krishna combines:
 
 - Empathetic conversational guidance
 - Scripture-grounded retrieval
-- Separation of verified sources and generated interpretation
+- Verified-source protection
 - Practical reflection steps
 - English, Hindi, and Hinglish interaction
 - Krishna stories and educational media
-- Safety-oriented response controls
+- Responsible-AI safety controls
 - Responsive web access
 
 ## Core Features
 
 ### Saathi AI Companion
 
-Users can describe a concern naturally and receive structured,
+Users can describe personal concerns naturally and receive structured,
 empathetic, and practical guidance.
 
 ### Scripture Grounding
 
-The system connects user concerns with relevant teachings from a
+The platform connects modern concerns with relevant teachings from a
 curated scripture collection.
 
 ### Source Integrity
 
-Verified scripture text is handled separately from AI-generated
-explanation. Generated wording must not be presented as an authentic
-verse.
+Verified scripture is kept separate from AI-generated interpretation.
+Generated wording is not presented as an authentic verse.
 
 ### Practical Reflection
 
-Responses may include small practical steps and reflection questions
-that users can apply in everyday life.
+Responses include understandable reflection questions and practical
+steps that users can apply in everyday life.
 
 ### Multilingual Experience
 
-The platform supports experiences in English, Hindi, and Hinglish.
+The platform supports English, Hindi, and Hinglish experiences.
 
 ### Stories and Media
 
-Krishna stories, animations, illustrations, and narration help users
-understand teachings through visual storytelling.
+Krishna stories, illustrations, animations, and narration make
+teachings easier to understand and remember.
 
 ## High-Level Architecture
 
@@ -101,9 +97,3 @@ AI Guidance Generation
 Response Validation
     ↓
 Structured User Response
-
-Technology
-
-The project uses or explores technologies including:
-Third-party translations, artwork, audio, fonts, and media must not be
-reused unless their licences allow public redistribution.
